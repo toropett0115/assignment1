@@ -1,18 +1,41 @@
-h1 { 
-    color:aqua;
+h1 {
+    color: aqua;
+}
+
+html {
+
+    box-sizing: border-box;
+    margin: 0;
+}
+
+    {
+    border-style: dotted;
+    border-width: medium;
+    border-color: darkgoldenrod;
+
+}
+
+body {
+    padding-bottom: 160px;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 160px;
 }
 
 h2 {
-    
-    color:deeppink;
-}
-p, a {
+
     color: deeppink;
-    
+}
+
+p,
+a {
+    color: deeppink;
+
 }
 
 
-h1,h2 {
+h1,
+h2 {
     font-family: cursive;
 }
 
