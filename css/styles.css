@@ -16,11 +16,21 @@ html {
 }
 
 body {
+    background-color: antiquewhite;
+    background-image: url("../images/mountain.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+   
     padding-bottom: 160px;
     padding-left: 160px;
     padding-right: 160px;
     padding-top: 160px;
+    
 }
+
+
 
 h2 {
 
